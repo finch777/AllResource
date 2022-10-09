@@ -1,0 +1,10 @@
+两种题型：
+1、循环打印ABC
+2、N个线程交替打印1-100
+
+五种方法：
+1、监视器锁 + wait + notify
+2、Lock锁
+3、Lock锁 + Condition
+4、LockSupport
+5、Semaphore

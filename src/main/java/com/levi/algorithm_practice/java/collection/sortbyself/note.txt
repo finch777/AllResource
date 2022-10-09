@@ -1,0 +1,3 @@
+对数组排序用Arrays.sort
+
+对ArrayList这种排序用Collections.sort
